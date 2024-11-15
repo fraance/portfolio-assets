@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 6 6">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #147fdd;
-      }
-    </style>
-  </defs>
-  <rect class="cls-1" x=".5" y=".5" width="5" height="5"/>
-  <path class="cls-1" d="M5,1V5H1V1H5m1-1H0V6H6V0h0Z"/>
+<svg width="276" height="276" viewBox="0 0 276 276" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_50_4)">
+<rect width="276" height="276" fill="white"/>
+<rect width="276" height="276" fill="black"/>
+<rect x="37.5" y="37.5" width="201" height="201" stroke="white" stroke-width="6"/>
+</g>
+<defs>
+<clipPath id="clip0_50_4">
+<rect width="276" height="276" fill="white"/>
+</clipPath>
+</defs>
 </svg>
